@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BYfv2FIDgDw=",
+  "success": true,
+  "projectFilePath": "C:\\VStudio\\NyobakJadwalGym\\NyobakJadwalGym\\NyobakJadwalGym.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RAMAKIMA\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\RAMAKIMA\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\RAMAKIMA\\.nuget\\packages\\npgsql\\9.0.1\\npgsql.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
